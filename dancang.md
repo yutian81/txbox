@@ -1,4 +1,4 @@
-// 已验证可用  20240314
+## 网络搜集的一些单线地址，未测试
 
 爱TV     http://tt.iitvba.com/
 小葱仓库：https://raw.iqiq.io/jigedos/CTTBOX/main/dc1.json
