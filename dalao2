@@ -4,15 +4,14 @@
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
             "name": "🚀1-潇洒哥线路"
         },
-		{
+	{
             "url": "http://肥猫.live",
             "name": "🚀2-肥猫"
         },
         {
             "url": "http://饭太硬.top/tv",
             "name": "🚀3-饭太硬推荐"
-        },
-		
+        },	
         {
             "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
             "name": "🚀4-健康家用"
@@ -24,8 +23,7 @@
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json",
             "name": "🚀6-香雅情镜像线路"
-        },
-        
+        },        
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json",
             "name": "🚀7-FongMI线路"
@@ -34,14 +32,10 @@
             "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "🚀8-巧计线路"
         },
-       
-
         {
             "url": "https://weixine.net/ysc.json",
             "name": "🚀9-运输车路"
-        },
-        
-        
+        },        
         {
             "url": "https://100km.top/0",
             "name": "🚀10-骚 0线路"
@@ -49,8 +43,7 @@
         {
             "url": "https://ghproxy.net/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
             "name": "🚀11-霜辉月明 py"
-        },
- 
+        }, 
         {
             "url": "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "🚀12-高天流云js"
@@ -62,8 +55,7 @@
         {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
             "name": "🚀14-南风线路"
-        },
-     
+        },     
         {
             "url": "http://www.lyyytv.cn/yt/yt.json",
             "name": "🚀15-影探线路"
